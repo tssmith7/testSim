@@ -8,10 +8,10 @@
 
 #include <frc/TimedRobot.h>
 #include <frc/smartdashboard/SendableChooser.h>
+#include <frc/smartdashboard/Smartdashboard.h>
 
 #include <rev/CANSparkMax.h>
 #include <ctre/Phoenix.h>
-#include <frc/smartdashboard/Smartdashboard.h>
 
 
 class Robot : public frc::TimedRobot {
