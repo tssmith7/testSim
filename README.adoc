@@ -2,7 +2,7 @@
 :toc:
 :url-gitlab: https://gitlab.eclipse.org
  
-A paragraph with `*_C++_*` and _italic_ text.
+A paragraph with `*_C\++_*` and _italic_ text.
 A link to https://eclipse.org[Eclipse].
 A reusable link to {url-gitlab}[GitLab].
  
