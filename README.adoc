@@ -1,4 +1,5 @@
 = Document Title
+:sectnums:
 :toc:
 :url-gitlab: https://gitlab.eclipse.org
  
@@ -12,7 +13,7 @@ image::an-image.png[An image,800]
  
 * Unordered list item
 ** Add another marker to make a nested item
-** Section reference <<_section_title>>
+** Section reference <<_section_title>>, subsection <<_subsection_title>>
 * Another unordered list item
 * https://docs.ctre-phoenix.com/en/stable/[CTRE Phoenix Framework Docs^] 
 (https://api.ctr-electronics.com/phoenix/release/cpp/namespaces.html[API,window=_blank])
