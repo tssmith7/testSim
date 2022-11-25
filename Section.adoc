@@ -1,0 +1,14 @@
+= Guidebook
+:xrefstyle: short
+:sectnums:
+
+== First Section
+
+Take a look at <<_second_section>> and not so much at the <<_first_section>>.
+
+Not much here to say.
+
+== Second Section
+
+* Good stuff here.
+* And more good stuff.
