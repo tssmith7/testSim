@@ -22,13 +22,10 @@ NOTE: One of five built-in admonition block types.
  
 === Subsection title
  
-[cols="2,3,6"]
-.CTRE Phoenix *TalonFX* Onboard Controller Units
-[[talon_pid_table]]
+[cols="{task-col-width},100"]
 |===
-| Control Type | Units | Conversion (2048 units/rev)
-
-| Position | "units" (encoder tics)^[1]^ | divide by 2048 for rotations
+| `*TASK {counter:tasknum}*` {empty}
+| Compile (Build) the project with above changes added and make sure there are no errors.  Then connect to the test bench with a USB cable and power the test bench. Connect an Xbox Controller or a Logitech controller to the your laptop and run the Driver Station.  Now deploy the code to the roboRIO.  Select `TeleOperated` on the driver station and press `Enable`.  The left joystick's x-axis motion should now control the speed of the motor.
 |===
 
  Text indented by one space is preformatted.
