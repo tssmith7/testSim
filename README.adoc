@@ -24,7 +24,7 @@ NOTE: One of five built-in admonition block types.
 
 [cols="2"]
 |===
-| `*TASK {counter:tasknum}*`
+| TASK {counter:tasknum}
 | Compile and deploy the code to the test bench.  Run Shuffleboard and select the "SmartDashboard" tab.  Move the motor disc by hand and observe the encoder value changing.  Now select `TeleOperated` in the Driver Station and `Enable` the roboRIO.  As you move the joystick, `Shuffleboard` will display the joystick output, the motor percent output (which should be the same), and the encoder distance.
 |===
  
