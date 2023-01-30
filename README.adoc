@@ -21,6 +21,10 @@ image::an-image.png[An image,800]
 NOTE: One of five built-in admonition block types.
  
 === Subsection title
+
+====
+* #TASK 1* -- Do some work
+====
  
  Text indented by one space is preformatted.
  
