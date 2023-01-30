@@ -22,6 +22,15 @@ NOTE: One of five built-in admonition block types.
  
 === Subsection title
  
+[cols="2,3,4"]
+.CTRE Phoenix *TalonFX* Onboard Controller Units
+[[talon_pid_table]]
+|===
+| Control Type | Units | Conversion (2048 units/rev)
+
+| Position | "units" (encoder tics)^[1]^ | divide by 2048 for rotations
+|===
+
  Text indented by one space is preformatted.
  
 A source block with a Ruby function named `hello` that prints "`Hello, World!`":
