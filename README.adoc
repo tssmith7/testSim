@@ -22,7 +22,7 @@ NOTE: One of five built-in admonition block types.
  
 === Subsection title
  
-[cols="2,3,4"]
+[cols="2,3,6"]
 .CTRE Phoenix *TalonFX* Onboard Controller Units
 [[talon_pid_table]]
 |===
