@@ -21,10 +21,9 @@ image::an-image.png[An image,800]
 NOTE: One of five built-in admonition block types.
  
 === Subsection title
- 
-[cols="{task-col-width},100"]
+
 |===
-| `*TASK {counter:tasknum}*` {empty}
+| `*TASK {counter:tasknum}*`
 | Compile (Build) the project with above changes added and make sure there are no errors.  Then connect to the test bench with a USB cable and power the test bench. Connect an Xbox Controller or a Logitech controller to the your laptop and run the Driver Station.  Now deploy the code to the roboRIO.  Select `TeleOperated` on the driver station and press `Enable`.  The left joystick's x-axis motion should now control the speed of the motor.
 |===
 
